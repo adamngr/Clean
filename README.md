@@ -1,6 +1,11 @@
 # LinuxClean
 
-Ce script a pour but de reunir les commandes consacré aux mises à jour et au nettoyage de l'OS, détaillés sur le site web de la documentation de Ubuntu, ainsi que de les executer.
+Ce script a pour but de reunir les commandes consacrés aux mises à jour et au nettoyage de l'OS, détaillés sur le site web de la documentation de Ubuntu, ainsi que de les executer.
+
+Pour lancer le script :
+
+      $ chmod +x clean.sh
+      $ ./clean.sh
 
 Les commandes prises en charge par ce script sont :
 
