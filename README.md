@@ -8,7 +8,7 @@ Pour lancer le script :
       $ ./clean.sh
 
 <p align="center">
-  <src="https://image.noelshack.com/fichiers/2018/24/7/1529262812-capture-du-2018-06-17-21-12-24.png">
+  <img src="https://image.noelshack.com/fichiers/2018/24/7/1529262812-capture-du-2018-06-17-21-12-24.png">
 </p>
 
 Les commandes prises en charge par ce script sont :
