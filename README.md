@@ -7,6 +7,8 @@ Pour lancer le script :
       $ chmod +x clean.sh
       $ ./clean.sh
 
+![alt text](https://image.noelshack.com/fichiers/2018/24/7/1529262812-capture-du-2018-06-17-21-12-24.png)
+
 Les commandes prises en charge par ce script sont :
 
       $ sudo apt-get update -y
