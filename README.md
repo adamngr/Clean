@@ -1,6 +1,6 @@
 # Clean
 
-Ce script a pour but de reunir les commandes consacrés aux mises à jour et au nettoyage de Ubuntu, détaillés sur le site web de la documentation de l'OS, ainsi que de les executer.
+Ce script a pour but de reunir les commandes natives consacrés aux mises à jour et au nettoyage de Ubuntu, détaillés sur le site web de la documentation de l'OS.
 
 Pour lancer le script :
 
